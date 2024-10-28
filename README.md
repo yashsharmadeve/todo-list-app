@@ -29,7 +29,7 @@ To run this project locally, follow these steps:
 
 ## Installation
 
-Install todo-list with npm
+Install todo-list-app with npm
 
 ```bash
   npm install
@@ -42,12 +42,15 @@ The app will be available at h `http://localhost:5173.`
     
 ## Screenshots
 - **Desktop** 
+
 ![App Screenshot](https://adytechnologies.com/wp-content/uploads/2024/10/Screenshot-2024-10-29-004342.png)
 
 - **Tablet** 
+
 ![App Screenshot](https://adytechnologies.com/wp-content/uploads/2024/10/Screenshot-2024-10-29-004430.png)
 
 - **Mobile** 
+
 ![App Screenshot](https://adytechnologies.com/wp-content/uploads/2024/10/Screenshot-2024-10-29-004504.png)
 
 Thank you for checking out the Todo List Application! Happy task managing!
