@@ -27,8 +27,7 @@ To run this project locally, follow these steps:
    git clone https://github.com/yashsharmadeve/todo-list-app.git
    cd todo-list-app
 
-## Installation
-
+2. **Installation**:
 Install todo-list-app with npm
 
 ```bash
@@ -36,9 +35,7 @@ Install todo-list-app with npm
   npm run dev
 ```
 
-The app will be available at h `http://localhost:5173.`
-
-
+The app will be available at h `http://localhost:5173`
     
 ## Screenshots
 - **Desktop** 
